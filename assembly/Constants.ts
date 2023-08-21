@@ -1,6 +1,6 @@
 export namespace Constants {
-  export const name: string = "Token";
-  export const symbol: string = "TKN";
+  export const name: string = "Kash";
+  export const symbol: string = "KASH";
   export const decimals: u32 = 8;
-  export const max_supply: u64 = 10000000000000000;
+  export const max_supply: u64 = 21000000;
 }
